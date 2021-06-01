@@ -27,6 +27,6 @@ requests==2.19.1
 six==1.11.0
 soupsieve==1.7.1
 tzlocal==1.5.1
-urllib3==1.23
+urllib3==1.26.5
 vine==1.2.0
 xadmin==0.6.1
