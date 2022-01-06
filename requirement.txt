@@ -2,7 +2,7 @@ amqp==2.4.0
 APScheduler==3.5.3
 beautifulsoup4==4.7.1
 billiard==3.5.0.5
-celery==4.2.1
+celery==5.2.2
 certifi==2018.8.24
 chardet==3.0.4
 Django==1.11.16
