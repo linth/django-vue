@@ -17,7 +17,7 @@ include==0.2.2
 kombu==4.2.2.post1
 modules==1.0.0
 mysqlclient==1.3.14
-numpy==1.15.4
+numpy==1.22.0
 post==1.0.2
 public==1.0.3
 PyMySQL==0.9.3
